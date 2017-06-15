@@ -1,0 +1,17 @@
+ali
+car1 car2
+car1
+100
+70
+training1 competetive1
+
+
+
+
+sina
+car3
+car3
+100
+100
+training1
+-1

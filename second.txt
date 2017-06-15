@@ -1,0 +1,40 @@
+ali
+car1 car2
+car2
+40
+70
+training1 competetive1
+-1 -1
+
+
+
+sina
+car1 car2 car2
+car1
+39
+100
+training1
+-1
+
+
+
+alireza
+car1
+car1
+10
+50
+
+
+
+
+
+Arash
+car1
+car1
+10
+50
+
+
+
+
+

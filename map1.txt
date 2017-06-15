@@ -1,0 +1,52 @@
+14
+Node1 50 30 2rah
+Node2 320 40 3rah
+Node3 570 40 2rah
+Node4 50 160 3rah
+Node5 320 160 4rah
+Node6 570 160 3rah
+Node7 320 320 2rah
+Node8 500 320 2rah
+Node9 50 430 3rah
+Node10 500 430 4rah
+Node11 570 430 3rah
+Node12 50 560 2rah
+Node13 500 560 3rah
+Node14 570 560 2rah
+20
+1tarafe Node2 Node1 1 horizontal 190 30
+2tarafe Node2 Node3 2 horizontal 450 40
+2tarafe Node1 Node4 3 vertical 50 90
+2tarafe Node2 Node5 2 vertical 320 100
+2tarafe Node3 Node6 1 vertical 570 100
+2tarafe Node4 Node5 2 horizontal 190 160
+2tarafe Node5 Node6 2 horizontal 450 160
+2tarafe Node4 Node9 3 vertical 50 290
+2tarafe Node5 Node7 2 vertical 320 240
+1tarafe Node6 Node11 1 vertical 570 290
+2tarafe Node7 Node8 2 horizontal 410 320
+2tarafe Node8 Node10 2 vertical 500 370
+1tarafe Node10 Node9 1 horizontal 280 410
+2tarafe Node10 Node9 2 horizontal 280 440
+2tarafe Node10 Node11 3 horizontal 540 430
+2tarafe Node9 Node12 3 vertical 50 500
+2tarafe Node10 Node13 2 vertical 500 500
+2tarafe Node11 Node14 1 vertical 570 500
+2tarafe Node12 Node13 2 horizontal 280 560
+2tarafe Node13 Node14 2 horizontal 540 560
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
